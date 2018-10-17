@@ -1,0 +1,7 @@
+c:\users\m1016931\source\repos\Delegates\WinFormsEventExample\obj\Debug\WinFormsEventExample.csprojResolveAssemblyReference.cache
+c:\users\m1016931\source\repos\Delegates\WinFormsEventExample\obj\Debug\WinFormsEventExample.csproj.CoreCompileInputs.cache
+c:\users\m1016931\source\repos\Delegates\WinFormsEventExample\bin\Debug\WinFormsEventExample.exe.config
+c:\users\m1016931\source\repos\Delegates\WinFormsEventExample\bin\Debug\WinFormsEventExample.exe
+c:\users\m1016931\source\repos\Delegates\WinFormsEventExample\bin\Debug\WinFormsEventExample.pdb
+c:\users\m1016931\source\repos\Delegates\WinFormsEventExample\obj\Debug\WinFormsEventExample.exe
+c:\users\m1016931\source\repos\Delegates\WinFormsEventExample\obj\Debug\WinFormsEventExample.pdb

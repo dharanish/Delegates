@@ -1,0 +1,7 @@
+c:\users\m1016931\source\repos\Delegates\ParameterisingAFunctionWithDelegate\bin\Debug\ParameterisingAFunctionWithDelegate.exe.config
+c:\users\m1016931\source\repos\Delegates\ParameterisingAFunctionWithDelegate\bin\Debug\ParameterisingAFunctionWithDelegate.exe
+c:\users\m1016931\source\repos\Delegates\ParameterisingAFunctionWithDelegate\bin\Debug\ParameterisingAFunctionWithDelegate.pdb
+c:\users\m1016931\source\repos\Delegates\ParameterisingAFunctionWithDelegate\obj\Debug\ParameterisingAFunctionWithDelegate.csprojResolveAssemblyReference.cache
+c:\users\m1016931\source\repos\Delegates\ParameterisingAFunctionWithDelegate\obj\Debug\ParameterisingAFunctionWithDelegate.csproj.CoreCompileInputs.cache
+c:\users\m1016931\source\repos\Delegates\ParameterisingAFunctionWithDelegate\obj\Debug\ParameterisingAFunctionWithDelegate.exe
+c:\users\m1016931\source\repos\Delegates\ParameterisingAFunctionWithDelegate\obj\Debug\ParameterisingAFunctionWithDelegate.pdb

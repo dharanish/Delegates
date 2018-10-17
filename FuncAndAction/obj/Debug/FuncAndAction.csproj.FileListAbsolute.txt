@@ -1,0 +1,7 @@
+c:\users\m1016931\source\repos\Delegates\FuncAndAction\bin\Debug\FuncAndAction.exe.config
+c:\users\m1016931\source\repos\Delegates\FuncAndAction\bin\Debug\FuncAndAction.exe
+c:\users\m1016931\source\repos\Delegates\FuncAndAction\bin\Debug\FuncAndAction.pdb
+c:\users\m1016931\source\repos\Delegates\FuncAndAction\obj\Debug\FuncAndAction.csprojResolveAssemblyReference.cache
+c:\users\m1016931\source\repos\Delegates\FuncAndAction\obj\Debug\FuncAndAction.csproj.CoreCompileInputs.cache
+c:\users\m1016931\source\repos\Delegates\FuncAndAction\obj\Debug\FuncAndAction.exe
+c:\users\m1016931\source\repos\Delegates\FuncAndAction\obj\Debug\FuncAndAction.pdb

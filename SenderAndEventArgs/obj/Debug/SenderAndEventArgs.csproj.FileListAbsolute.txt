@@ -1,0 +1,7 @@
+c:\users\m1016931\source\repos\Delegates\SenderAndEventArgs\bin\Debug\SenderAndEventArgs.exe.config
+c:\users\m1016931\source\repos\Delegates\SenderAndEventArgs\bin\Debug\SenderAndEventArgs.exe
+c:\users\m1016931\source\repos\Delegates\SenderAndEventArgs\bin\Debug\SenderAndEventArgs.pdb
+c:\users\m1016931\source\repos\Delegates\SenderAndEventArgs\obj\Debug\SenderAndEventArgs.csprojResolveAssemblyReference.cache
+c:\users\m1016931\source\repos\Delegates\SenderAndEventArgs\obj\Debug\SenderAndEventArgs.csproj.CoreCompileInputs.cache
+c:\users\m1016931\source\repos\Delegates\SenderAndEventArgs\obj\Debug\SenderAndEventArgs.exe
+c:\users\m1016931\source\repos\Delegates\SenderAndEventArgs\obj\Debug\SenderAndEventArgs.pdb

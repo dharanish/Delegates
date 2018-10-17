@@ -1,0 +1,6 @@
+c:\users\m1016931\source\repos\Delegates\AddOrRemoveEventsExample\bin\Debug\AddOrRemoveEventsExample.exe.config
+c:\users\m1016931\source\repos\Delegates\AddOrRemoveEventsExample\bin\Debug\AddOrRemoveEventsExample.exe
+c:\users\m1016931\source\repos\Delegates\AddOrRemoveEventsExample\bin\Debug\AddOrRemoveEventsExample.pdb
+c:\users\m1016931\source\repos\Delegates\AddOrRemoveEventsExample\obj\Debug\AddOrRemoveEventsExample.csproj.CoreCompileInputs.cache
+c:\users\m1016931\source\repos\Delegates\AddOrRemoveEventsExample\obj\Debug\AddOrRemoveEventsExample.exe
+c:\users\m1016931\source\repos\Delegates\AddOrRemoveEventsExample\obj\Debug\AddOrRemoveEventsExample.pdb

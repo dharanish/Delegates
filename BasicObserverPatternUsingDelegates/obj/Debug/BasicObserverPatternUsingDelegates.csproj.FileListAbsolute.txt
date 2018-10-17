@@ -1,0 +1,7 @@
+c:\users\m1016931\source\repos\Delegates\BasicObserverPatternUsingDelegates\bin\Debug\BasicObserverPatternUsingDelegates.exe.config
+c:\users\m1016931\source\repos\Delegates\BasicObserverPatternUsingDelegates\bin\Debug\BasicObserverPatternUsingDelegates.exe
+c:\users\m1016931\source\repos\Delegates\BasicObserverPatternUsingDelegates\bin\Debug\BasicObserverPatternUsingDelegates.pdb
+c:\users\m1016931\source\repos\Delegates\BasicObserverPatternUsingDelegates\obj\Debug\BasicObserverPatternUsingDelegates.csproj.CoreCompileInputs.cache
+c:\users\m1016931\source\repos\Delegates\BasicObserverPatternUsingDelegates\obj\Debug\BasicObserverPatternUsingDelegates.exe
+c:\users\m1016931\source\repos\Delegates\BasicObserverPatternUsingDelegates\obj\Debug\BasicObserverPatternUsingDelegates.pdb
+c:\users\m1016931\source\repos\Delegates\BasicObserverPatternUsingDelegates\obj\Debug\BasicObserverPatternUsingDelegates.csprojResolveAssemblyReference.cache

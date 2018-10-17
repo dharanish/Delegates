@@ -1,0 +1,7 @@
+c:\users\m1016931\source\repos\Delegates\ChaningOfDelegates\bin\Debug\ChaningOfDelegates.exe.config
+c:\users\m1016931\source\repos\Delegates\ChaningOfDelegates\bin\Debug\ChaningOfDelegates.exe
+c:\users\m1016931\source\repos\Delegates\ChaningOfDelegates\bin\Debug\ChaningOfDelegates.pdb
+c:\users\m1016931\source\repos\Delegates\ChaningOfDelegates\obj\Debug\ChaningOfDelegates.csprojResolveAssemblyReference.cache
+c:\users\m1016931\source\repos\Delegates\ChaningOfDelegates\obj\Debug\ChaningOfDelegates.csproj.CoreCompileInputs.cache
+c:\users\m1016931\source\repos\Delegates\ChaningOfDelegates\obj\Debug\ChaningOfDelegates.exe
+c:\users\m1016931\source\repos\Delegates\ChaningOfDelegates\obj\Debug\ChaningOfDelegates.pdb
